@@ -1,22 +1,3 @@
-# GitHub metadata
-
-## Repository name
-`regenerative-positional-memory-theory`
-
-## About / Description
-Reproducibility code for spatial robustness, environmental side information, and regenerative positional memory.
-
-## Topics
-`regeneration`, `positional-memory`, `positional-information`, `theoretical-biology`, `systems-biology`, `information-theory`, `gene-regulatory-networks`, `axolotl`, `killifish`, `reproducible-research`
-
-## Release tag
-`v1.0.0`
-
-## Release title
-`v1.0.0 — Reproducibility release for manuscript submission`
-
-## Release notes
-
 This release freezes the reproducibility materials supporting the manuscript **“Spatial robustness and environmental side information in regenerative positional memory.”**
 
 It includes:

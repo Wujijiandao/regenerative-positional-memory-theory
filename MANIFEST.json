@@ -1,6 +1,7 @@
 {
-  "release_candidate": "1.0.0-rc1",
-  "generated": "2026-09-07",
+  "version": "1.0.0",
+  "generated_date": "2026-09-07",
+  "file_count": 71,
   "files": [
     {
       "path": ".github/workflows/theory-tests.yml",
@@ -13,9 +14,14 @@
       "sha256": "6e92294312390ba27442ea963635f2c88571f3a96dff025322e741f1354e4f2e"
     },
     {
+      "path": "CHANGELOG.md",
+      "size_bytes": 591,
+      "sha256": "4b7e33870f35282932a34b1b4c0cbb722c83cd7040dd2b081eebf797e3876a1f"
+    },
+    {
       "path": "CITATION.cff",
-      "size_bytes": 595,
-      "sha256": "04d4a6e0a87a85bb6ee36183c7a58b62be1c802628f456c62d48bed41c1c8228"
+      "size_bytes": 591,
+      "sha256": "677f6883d22b301d66f46a6f1a479903643c393d4106cf125f0384baa2a1238b"
     },
     {
       "path": "LICENSE",
@@ -24,23 +30,18 @@
     },
     {
       "path": "README.md",
-      "size_bytes": 4360,
-      "sha256": "15c744b06e06c292122a600d53c353ea6f9074b2e884b41d5cb6f7c0f80bdfc7"
+      "size_bytes": 4455,
+      "sha256": "62cc62bb4991474b948040dc215bd34de7038941baafbbac3aa0e38048383c06"
+    },
+    {
+      "path": "RELEASE_NOTES.md",
+      "size_bytes": 2201,
+      "sha256": "70f1d559b99ccc40f5fdf439c2ce0ce115bcc9d2c5ef67a3ae2a707f89e2a92a"
     },
     {
       "path": "analysis/axolotl/README.md",
       "size_bytes": 753,
       "sha256": "775393e05e83b12ac792c55da62033c04e3bd9e6f5d0c124631b0bce926d8e38"
-    },
-    {
-      "path": "analysis/axolotl/__pycache__/frozen_transfer.cpython-313.pyc",
-      "size_bytes": 14774,
-      "sha256": "d98f943430f0ca84ff904998aa4d01be41332947de29c6183edc25c90983181d"
-    },
-    {
-      "path": "analysis/axolotl/__pycache__/make_training_frozen_loo_figure.cpython-313.pyc",
-      "size_bytes": 2301,
-      "sha256": "f8093f4dea40660f94d0ff380d7c9ab395fac07b482be5d45ad1a93b4de0a8a6"
     },
     {
       "path": "analysis/axolotl/frozen_transfer.py",
@@ -61,11 +62,6 @@
       "path": "analysis/killifish/README.md",
       "size_bytes": 569,
       "sha256": "eb94af3d8ec9897227f4bb9aa5a940860bad145b1d309b38f48e2ab29479a009"
-    },
-    {
-      "path": "analysis/killifish/__pycache__/remote_dorsal_control.cpython-313.pyc",
-      "size_bytes": 14875,
-      "sha256": "15b5e16eead073a02f641f83f5140699882e19fd8f8eea4157f801b1b5db7430"
     },
     {
       "path": "analysis/killifish/legacy_analyze_position_signature.py",
@@ -108,9 +104,14 @@
       "sha256": "f8f05a4ec6c56837cae1ba3bce21508c43dcacca39df346ea6dab43d81391871"
     },
     {
+      "path": "docs/FINAL_RELEASE_CHECKLIST.md",
+      "size_bytes": 1094,
+      "sha256": "596fc2f56e9850a4fffd8d42861fe7c7f15c84bf6ee6d124f2f1307ab094126a"
+    },
+    {
       "path": "docs/GITHUB_METADATA.md",
-      "size_bytes": 1445,
-      "sha256": "ab95fc3c9644ca8c4efdaa7f3765bc672b74c61ec1a6f52511f76f776bc8d454"
+      "size_bytes": 2755,
+      "sha256": "4dee05e8d86206f80b47b8bba12e441c1ff975c1be6732620ca8235e3e27339d"
     },
     {
       "path": "docs/HUMAN_VERIFICATION.md",
@@ -119,18 +120,18 @@
     },
     {
       "path": "docs/MANUSCRIPT_SYNC_NOTES.md",
-      "size_bytes": 1257,
-      "sha256": "e0108e9dee3850dacbb7b254afb03805705ba37eeeceeea649a634a653463dd8"
+      "size_bytes": 955,
+      "sha256": "1d261e144acbb36999eb7415c9dee62ca29503238e0b827013b15d85420da63a"
     },
     {
       "path": "docs/REPRODUCIBILITY_CHECK.md",
-      "size_bytes": 988,
-      "sha256": "cfff064f0bde817e1c9d99b04dc22efead680a05f456c311b5351af7372bed0c"
+      "size_bytes": 1523,
+      "sha256": "6542258bdec4eecf0d56888b727ff1991144f33bd81762ba54b9fbebe6dceb58"
     },
     {
       "path": "docs/ZENODO_METADATA.md",
-      "size_bytes": 2431,
-      "sha256": "fd2fbe7faa3c5b37eafbb95b363707cb476e2fd6133566ea6863f3c7939ab42e"
+      "size_bytes": 2498,
+      "sha256": "74db9511dc617ebbb8c0487862383afb13a98310cc5191a04c1831ea9e993e63"
     },
     {
       "path": "environment.yml",
@@ -293,64 +294,9 @@
       "sha256": "5bb6a3e480330f8d183af589c185618b34035851f44e4228b9f680b498dec8e6"
     },
     {
-      "path": "scripts/__pycache__/verify_data.cpython-313.pyc",
-      "size_bytes": 1423,
-      "sha256": "9152b2d80565d1b10d68c081294000a970cfff8cd5b2c1d1625443d49c3a20e5"
-    },
-    {
       "path": "scripts/verify_data.py",
       "size_bytes": 580,
       "sha256": "907be72ce62238c2ecec6c5f0f9552413d0489254083f8c702c0f61c6edd9151"
-    },
-    {
-      "path": "theory/__pycache__/boundary_capacity.cpython-313.pyc",
-      "size_bytes": 8096,
-      "sha256": "a5c4e56be6e503f919e45e57a386d403cf5c651fadb815e266b024b1e4fd5176"
-    },
-    {
-      "path": "theory/__pycache__/connected_lesion.cpython-313.pyc",
-      "size_bytes": 8732,
-      "sha256": "73a0d97f2211fac1e67ef6c16a9db8822af26a3ee455293a43a044839fb44f04"
-    },
-    {
-      "path": "theory/__pycache__/lineage_information.cpython-313.pyc",
-      "size_bytes": 5985,
-      "sha256": "5b157493a3ac69b469d47ac070d0776f015fd444f04dd205b9d139e80cfb3065"
-    },
-    {
-      "path": "theory/__pycache__/multisource_single_lesion.cpython-313.pyc",
-      "size_bytes": 6587,
-      "sha256": "e04dad540e2491de11eddaf97c0d53eca0e1208f85b278fe4209bb949675148c"
-    },
-    {
-      "path": "theory/__pycache__/planarian_ap_grn.cpython-313.pyc",
-      "size_bytes": 3915,
-      "sha256": "453f5482a4b751b5c80d87afd92eda94522042206e13d8d9dbef002421589fd7"
-    },
-    {
-      "path": "theory/__pycache__/redundancy_latency.cpython-313.pyc",
-      "size_bytes": 6874,
-      "sha256": "14cd27dc31399ed79dfdf591e6e9835c0a15fce7bf7bc19afecbee7ee05aa212"
-    },
-    {
-      "path": "theory/__pycache__/regulatory_cuts.cpython-313.pyc",
-      "size_bytes": 5078,
-      "sha256": "cc91e79d37764f35ff34ec3041eac7c9e6f1c7d1d9dcbe30701159e3866a86ec"
-    },
-    {
-      "path": "theory/__pycache__/robustness_growth.cpython-313.pyc",
-      "size_bytes": 2709,
-      "sha256": "9846a840c85341a4f7770d82ee9866853faa0274843b698d42b8fcfcd1b42574"
-    },
-    {
-      "path": "theory/__pycache__/side_information.cpython-313.pyc",
-      "size_bytes": 1595,
-      "sha256": "994a44976b81e104ab8f2d56efa6b51d894cc69124aa5939f749df7e74655dfb"
-    },
-    {
-      "path": "theory/__pycache__/total_distance_domination_baseline.cpython-313.pyc",
-      "size_bytes": 1465,
-      "sha256": "becdd9be2aec322794d08d5ffd32ed6752d9256875e80f5ada42a10c05b50e43"
     },
     {
       "path": "theory/boundary_capacity.py",

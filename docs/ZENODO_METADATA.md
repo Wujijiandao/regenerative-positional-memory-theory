@@ -38,4 +38,4 @@ This v1.0.0 record is the archival reproducibility release corresponding to the 
 - Manuscript DOI: add after publication / preprint DOI if created
 
 ## Notes
-Do not mint the final DOI until the author has independently rerun the complete workflow and the manuscript has been synchronized to the canonical training-frozen outputs.
+The repository has been synchronized to the canonical training-frozen manuscript-facing outputs. The GitHub v1.0.0 release can now be archived in Zenodo. Independent author scientific verification remains a journal-submission requirement.

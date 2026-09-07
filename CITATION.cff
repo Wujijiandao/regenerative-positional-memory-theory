@@ -5,7 +5,7 @@ type: software
 authors:
   - family-names: Zhang
     given-names: Yuzhan
-version: 1.0.0-rc1
+version: 1.0.0
 date-released: 2026-09-07
 license: MIT
 repository-code: "https://github.com/Wujijiandao/regenerative-positional-memory-theory"

@@ -1,6 +1,6 @@
-# Reproducibility check — release candidate 1.0.0-rc1
+# Reproducibility check — v1.0.0
 
-Automated check performed before repository upload:
+Automated check performed for the v1.0.0 release:
 
 - theory: 26/26 unit tests passed;
 - axolotl: recomputed from GSE243137 and GSE284768 processed matrices;
@@ -19,3 +19,12 @@ Automated check performed before repository upload:
 - signature direction agreement = 0.63.
 
 These automated checks do not replace the author's independent scientific verification required before journal submission.
+
+## Final release verification
+
+- frozen axolotl `canonical_summary.json` equals the clean recomputation output exactly;
+- frozen killifish `canonical_summary.json` equals the clean recomputation output exactly;
+- SHA-256 and byte size were rechecked for all five source snapshots in `data_manifest/source_data.json`;
+- manuscript-facing Figure 4 is synchronized with internal manuscript package v0.17.1;
+- repository contains no `__pycache__`, `.pyc` or `.pyo` artifacts.
+- Main Figure 1 is archived as the frozen manuscript-facing PNG used in the release.

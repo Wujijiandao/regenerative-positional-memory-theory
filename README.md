@@ -82,9 +82,7 @@ python analysis/killifish/remote_dorsal_control.py \
 
 ## Reproducibility status
 
-This repository is prepared as a **submission/reviewer reproducibility release candidate**. Before a public `v1.0.0` archival release, the author should independently rerun the complete workflow, verify manuscript numbers and figures, and finalize the data/code citation.
-
-See `docs/HUMAN_VERIFICATION.md` and `docs/MANUSCRIPT_SYNC_NOTES.md`.
+This repository is the **v1.0.0 reproducibility release** prepared for manuscript submission. The automated theory, axolotl and killifish checks recorded in `docs/REPRODUCIBILITY_CHECK.md` have been rerun against the frozen source snapshots. Independent author verification remains a journal-submission gate; see `docs/HUMAN_VERIFICATION.md`.
 
 ## License
 
@@ -92,4 +90,4 @@ Original code and repository-authored documentation are released under the MIT L
 
 ## Citation
 
-A Zenodo DOI will be inserted here after the archival `v1.0.0` release. Until then, use the metadata in `CITATION.cff`.
+The versioned GitHub release is designed to be archived with Zenodo. After Zenodo minting, insert the DOI here and in `CITATION.cff`; until then, cite the GitHub v1.0.0 release using the metadata in `CITATION.cff`.
