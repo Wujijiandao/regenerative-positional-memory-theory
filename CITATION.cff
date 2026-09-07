@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the archived release and the associated manuscript."
+title: "Regenerative positional-memory theory: reproducibility code and derived results"
+type: software
+authors:
+  - family-names: Zhang
+    given-names: Yuzhan
+version: 1.0.0-rc1
+date-released: 2026-09-07
+license: MIT
+repository-code: "https://github.com/Wujijiandao/regenerative-positional-memory-theory"
+keywords:
+  - regeneration
+  - positional memory
+  - tissue injury
+  - spatial robustness
+  - information theory
+  - gene regulatory networks
+  - axolotl
+  - killifish

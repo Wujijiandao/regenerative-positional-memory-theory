@@ -1,0 +1,23 @@
+{
+  "mature_HI_auc": 1.0,
+  "mature_LOW_auc": 1.0,
+  "mature_Hand2_auc": 1.0,
+  "mature_AtoP_auc": 0.75,
+  "acute_AtoP_sign_auc": 1.0,
+  "acute_Hand2_sign_auc": 0.5,
+  "acute_Hand2_weighted_auc": 0.3333333333333333,
+  "loo_HI_aucs": [
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0
+  ],
+  "loo_LOW_aucs": [
+    0.75,
+    1.0,
+    0.875,
+    1.0,
+    0.875
+  ]
+}

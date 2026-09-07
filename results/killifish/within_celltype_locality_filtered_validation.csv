@@ -1,0 +1,6 @@
+cell_type,rep2_auc_locality_filtered,n_prox_genes,n_dist_genes,dorsal_abs_log2fc_filter,rep2_n_prox,rep2_n_dist
+epithelial,0.8473996896271436,50,50,0.25,2558,3231
+mesenchymal,0.7879975387843208,50,50,0.25,1209,820
+RBC,0.8084465016460489,50,50,0.25,1261,337
+mucosal,0.7600428658909982,50,50,0.25,230,284
+myeloid,0.7621858145924495,50,50,0.25,341,317

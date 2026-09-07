@@ -1,0 +1,26 @@
+{
+  "biological_units": "3 independent fish per caudal condition in uncut dorsal fin",
+  "technical_depths": [
+    "30K",
+    "50K"
+  ],
+  "primary_depth": "50K",
+  "caudal_signature_genes": 200,
+  "score_tests": {
+    "30K": {
+      "prox_mean": 0.4696186293581197,
+      "dist_mean": -0.04283996257490421,
+      "mean_difference": 0.5124585919330239,
+      "exact_one_sided_p": 0.05
+    },
+    "50K": {
+      "prox_mean": 0.4723696336237484,
+      "dist_mean": -0.02810621232953629,
+      "mean_difference": 0.5004758459532846,
+      "exact_one_sided_p": 0.05
+    }
+  },
+  "technical_30K_50K_spearman": 0.9833333333333333,
+  "signature_cauda_vs_dorsal_effect_spearman_50K": 0.53822395559889,
+  "signature_direction_agreement_cauda_vs_dorsal_50K": 0.63
+}

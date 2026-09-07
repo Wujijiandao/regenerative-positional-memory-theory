@@ -1,0 +1,32 @@
+{
+  "GSE260629_RAW.tar": {
+    "accession": "GSE260629",
+    "sha256": "0684955785e4f8bf01f5619ee0ff146ac52aeb7282a26d18d5f4ee315ba87069",
+    "size_bytes": 266229760,
+    "target": "data/killifish/GSE260629_RAW.tar"
+  },
+  "GSE260629_cell_counts.txt.gz": {
+    "accession": "GSE260629",
+    "sha256": "7bd4aca09b7f3060b6b69bb622cb96628aa52bc23e9883d0d2811811f59bc632",
+    "size_bytes": 383,
+    "target": "data/killifish/GSE260629_cell_counts.txt.gz"
+  },
+  "GSE243137_MatrixCounts_allsamples.txt.gz": {
+    "accession": "GSE243137",
+    "sha256": "78595c929c43438842ee465573e650f1b1218e5edb8b1a03fb857c7b01b8acc9",
+    "size_bytes": 502573,
+    "target": "data/axolotl/GSE243137_MatrixCounts_allsamples.txt.gz"
+  },
+  "GSE284768_MatrixCounts.csv.gz": {
+    "accession": "GSE284768",
+    "sha256": "959ba8dbc7c681fb90489c0896df33650dde2f8496f3fd28c4f0e0d108f96efa",
+    "size_bytes": 1137961,
+    "target": "data/axolotl/GSE284768_MatrixCounts.csv.gz"
+  },
+  "41586_2025_9036_MOESM4_ESM.zip": {
+    "source": "Otsuki et al. 2025 Nature supplementary tables",
+    "sha256": "f04e42c0b10f9a99becaa6c8bc8db987165d4857a8253e86d1b0cecad40078c5",
+    "size_bytes": 1635668,
+    "target": "data/axolotl/41586_2025_9036_MOESM4_ESM.zip"
+  }
+}
